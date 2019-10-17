@@ -1,1 +1,0 @@
-const regl = require('regl')()
